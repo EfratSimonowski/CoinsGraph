@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MxOED1stVGVSIVGG86tJFDotQhbPVWIovpW5IXIBYUE=",
+  "Source": "Coins.Api",
+  "BasePath": "_content/Coins.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

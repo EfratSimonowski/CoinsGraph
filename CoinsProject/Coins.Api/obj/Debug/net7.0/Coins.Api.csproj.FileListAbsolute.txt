@@ -1,0 +1,109 @@
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\bin\Debug\net7.0\appsettings.json
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\bin\Debug\net7.0\Coins.Api.exe
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\bin\Debug\net7.0\Coins.Api.deps.json
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\bin\Debug\net7.0\Coins.Api.runtimeconfig.json
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\bin\Debug\net7.0\Coins.Api.dll
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\bin\Debug\net7.0\Coins.Api.pdb
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\bin\Debug\net7.0\Coins.Core.dll
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\bin\Debug\net7.0\Coins.Core.pdb
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\obj\Debug\net7.0\Coins.Api.csproj.AssemblyReference.cache
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\obj\Debug\net7.0\Coins.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\obj\Debug\net7.0\Coins.Api.AssemblyInfoInputs.cache
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\obj\Debug\net7.0\Coins.Api.AssemblyInfo.cs
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\obj\Debug\net7.0\Coins.Api.csproj.CoreCompileInputs.cache
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\obj\Debug\net7.0\Coins.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\obj\Debug\net7.0\Coins.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\obj\Debug\net7.0\staticwebassets\msbuild.Coins.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Coins.Api.props
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Coins.Api.props
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Coins.Api.props
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\obj\Debug\net7.0\scopedcss\bundle\Coins.Api.styles.css
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\obj\Debug\net7.0\Coins.Api.csproj.CopyComplete
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\obj\Debug\net7.0\Coins.Api.dll
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\obj\Debug\net7.0\refint\Coins.Api.dll
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\obj\Debug\net7.0\Coins.Api.pdb
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\obj\Debug\net7.0\Coins.Api.genruntimeconfig.cache
+C:\לימודים שנה ב\Angular\Coins Project\Coins.Api\obj\Debug\net7.0\ref\Coins.Api.dll
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\bin\Debug\net7.0\appsettings.json
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\bin\Debug\net7.0\Coins.Api.exe
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\bin\Debug\net7.0\Coins.Api.deps.json
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\bin\Debug\net7.0\Coins.Api.runtimeconfig.json
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\bin\Debug\net7.0\Coins.Api.dll
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\bin\Debug\net7.0\Coins.Api.pdb
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\bin\Debug\net7.0\Coins.Core.dll
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\bin\Debug\net7.0\Coins.Core.pdb
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\obj\Debug\net7.0\Coins.Api.csproj.AssemblyReference.cache
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\obj\Debug\net7.0\Coins.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\obj\Debug\net7.0\Coins.Api.AssemblyInfoInputs.cache
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\obj\Debug\net7.0\Coins.Api.AssemblyInfo.cs
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\obj\Debug\net7.0\Coins.Api.csproj.CoreCompileInputs.cache
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\obj\Debug\net7.0\Coins.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\obj\Debug\net7.0\Coins.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\obj\Debug\net7.0\staticwebassets\msbuild.Coins.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Coins.Api.props
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Coins.Api.props
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Coins.Api.props
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\obj\Debug\net7.0\scopedcss\bundle\Coins.Api.styles.css
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\obj\Debug\net7.0\Coins.Api.csproj.CopyComplete
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\obj\Debug\net7.0\Coins.Api.dll
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\obj\Debug\net7.0\refint\Coins.Api.dll
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\obj\Debug\net7.0\Coins.Api.pdb
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\obj\Debug\net7.0\Coins.Api.genruntimeconfig.cache
+C:\לימודים שנה ב\Angular\CoinsProject\Coins.Api\obj\Debug\net7.0\ref\Coins.Api.dll
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\bin\Debug\net7.0\Coins.Api.staticwebassets.endpoints.json
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\bin\Debug\net7.0\Coins.Api.exe
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\bin\Debug\net7.0\Coins.Api.deps.json
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\bin\Debug\net7.0\Coins.Api.runtimeconfig.json
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\bin\Debug\net7.0\Coins.Api.dll
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\bin\Debug\net7.0\Coins.Api.pdb
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\bin\Debug\net7.0\Coins.Core.dll
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\bin\Debug\net7.0\Coins.Core.pdb
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\Coins.Api.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\Coins.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\Coins.Api.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\Coins.Api.AssemblyInfo.cs
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\Coins.Api.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\Coins.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\Coins.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\scopedcss\bundle\Coins.Api.styles.css
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\staticwebassets\msbuild.Coins.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\staticwebassets\msbuild.Coins.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Coins.Api.props
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Coins.Api.props
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Coins.Api.props
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\Coins.Api.csproj.Up2Date
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\Coins.Api.dll
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\refint\Coins.Api.dll
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\Coins.Api.pdb
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\Coins.Api.genruntimeconfig.cache
+C:\Users\user1\Desktop\AngularProject\CoinsProject\Coins.Api\obj\Debug\net7.0\ref\Coins.Api.dll

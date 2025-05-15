@@ -1,0 +1,76 @@
+<div class="filters" style="display: flex; gap: 1rem; flex-wrap: wrap;">
+  <!-- בחירת מטבע -->
+  <mat-form-field appearance="fill">
+    <mat-label>סוג מטבע</mat-label>
+    <mat-select [(ngModel)]="selectedCurrency" (selectionChange)="onSelectionChange()">
+      <mat-option *ngFor="let currency of currencies" [value]="currency">
+        {{ currency }}
+      </mat-option>
+    </mat-select>
+  </mat-form-field>
+
+  <!-- בחירת טווח זמן -->
+  <mat-form-field appearance="fill">
+    <mat-label>טווח זמן</mat-label>
+    <mat-select [(ngModel)]="selectedTimeRange" (selectionChange)="onSelectionChange()">
+      <mat-option *ngFor="let range of timeRanges" [value]="range">
+        {{ range }}
+      </mat-option>
+    </mat-select>
+  </mat-form-field>
+
+  <!-- בחירת סוג גרף -->
+  <mat-form-field appearance="fill">
+    <mat-label>סוג גרף</mat-label>
+    <mat-select [(ngModel)]="selectedChartType" (selectionChange)="onChartTypeChange()">
+      <mat-option *ngFor="let type of chartTypes" [value]="type">
+        {{ type === 'line' ? 'קווי' : type === 'pie' ? 'עוגה' : 'עמודות' }}
+      </mat-option>
+    </mat-select>
+  </mat-form-field>
+</div>
+
+<!-- הצגת הגרף -->
+<div style="display: flex; justify-content: center; align-items: center; height: 440px; padding-bottom: 20px;">
+  <!-- גרף קווי – גרסה מתוקנת ופשוטה -->
+  <ngx-charts-line-chart
+    *ngIf="selectedChartType === 'line'"
+    [view]="[700, 400]"
+    [scheme]="colorScheme"
+    [results]="chartData"
+    [xAxis]="true"
+    [yAxis]="true"
+    [autoScale]="true"
+    [legend]="true"
+    [animations]="true"
+    [tooltipDisabled]="false">
+  </ngx-charts-line-chart>
+
+  <!-- גרף עוגה -->
+  <ngx-charts-pie-chart
+    *ngIf="selectedChartType === 'pie'"
+    [view]="[700, 400]"
+    [scheme]="colorScheme"
+    [results]="chartData[0]?.series"
+    [legend]="true"
+    [labels]="true"
+    [doughnut]="false"
+    [animations]="true">
+  </ngx-charts-pie-chart>
+
+  <!-- גרף עמודות -->
+  <ngx-charts-bar-vertical
+    *ngIf="selectedChartType === 'bar'"
+    [view]="[700, 400]"
+    [scheme]="colorScheme"
+    [results]="chartData[0]?.series"
+    [xAxis]="true"
+    [yAxis]="true"
+    [xAxisLabel]="'טווח זמן'"
+    [yAxisLabel]="'שווי'"
+    [showXAxisLabel]="true"
+    [showYAxisLabel]="true"
+    [legend]="true"
+    [animations]="true">
+  </ngx-charts-bar-vertical>
+</div>

@@ -1,0 +1,66 @@
+[
+  {
+    "ContainingType": "project.api.Controllers.CoinsController",
+    "Method": "GetHalfYear",
+    "RelativePath": "api/Coins/halfyear/{coinName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "coinName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "project.api.Controllers.CoinsController",
+    "Method": "GetMonth",
+    "RelativePath": "api/Coins/month/{coinName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "coinName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "project.api.Controllers.CoinsController",
+    "Method": "GetWeek",
+    "RelativePath": "api/Coins/week/{coinName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "coinName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "project.api.Controllers.CoinsController",
+    "Method": "GetYear",
+    "RelativePath": "api/Coins/year/{coinName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "coinName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
